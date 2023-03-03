@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "/Users/idank/dev/keyboards/corne/pcb/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "sea-picro")(type "KiCad")(uri "/Users/idank/Downloads/sea-picro-footprints-main/sea-picro")(options "")(descr ""))
+)
