@@ -366,7 +366,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Desktop/sweepv2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
