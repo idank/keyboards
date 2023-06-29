@@ -179,7 +179,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "41_1350_pcb_plate.kicad_pro",
+    "filename": "reviung41 choc.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "41_1350_pcb_plate.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

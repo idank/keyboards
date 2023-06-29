@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 49,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffd1fff_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "41_1350_pcb.kicad_prl",
+    "filename": "reviung41 choc.kicad_prl",
     "version": 3
   },
   "project": {
