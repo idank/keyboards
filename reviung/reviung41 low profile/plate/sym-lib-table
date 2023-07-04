@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keebMCU")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/keebMCU.kicad_sym")(options "")(descr ""))
+  (lib (name "keeblib")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/keeblib.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "pimoroni")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/pimoroni.kicad_sym")(options "")(descr ""))
+)
