@@ -6437,7 +6437,7 @@
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ad732917-b3f1-454e-949f-9ef2bc9391b1))
     (fp_arc (start -56.831058 -0.000001) (mid -54.566994 0.128562) (end -52.332037 0.512598)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 588f91cb-776b-4057-9f89-9d47f79ee103))
-    (fp_arc (start -43.903779 85.253334) (mid -43.281265 85.470726) (end -42.929409 86.028383)
+    (fp_arc (start -43.903779 85.253334) (mid -43.281264 85.470726) (end -42.929409 86.028383)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 84ad35f6-4a8e-4d78-b801-8f8b1e4e1ef5))
     (fp_arc (start -41.178247 91.116827) (mid -41.660403 90.849564) (end -41.927666 90.367408)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 0144e438-4e16-4b45-91d4-3d1e359d021d))
@@ -6451,21 +6451,21 @@
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 422b39f1-387d-4abb-9da2-1878ade7ad2c))
     (fp_arc (start 37.146773 4.018393) (mid 36.696871 4.069653) (end 36.246969 4.018393)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 16dfa09e-ea6a-48ee-9f8a-3b8ad38ba2fe))
-    (fp_arc (start 41.927666 90.367408) (mid 41.660326 90.849478) (end 41.178247 91.116827)
+    (fp_arc (start 41.927666 90.367408) (mid 41.660311 90.849463) (end 41.178247 91.116827)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp c1d2c207-98e5-49fe-b977-7980b5afecf3))
-    (fp_arc (start 42.929409 86.028383) (mid 43.281247 85.470724) (end 43.903779 85.253334)
+    (fp_arc (start 42.929409 86.028383) (mid 43.281263 85.470738) (end 43.903779 85.253334)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp bac9eaab-8aeb-4ecb-a597-d5201b2b47a1))
     (fp_arc (start 52.332038 0.512599) (mid 54.566994 0.128554) (end 56.831059 0)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 8d0addde-86be-488f-9d7d-31c49c01632e))
     (fp_arc (start 59.465859 67.164153) (mid 59.683265 66.541653) (end 60.240908 66.189783)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp b7559e33-a32d-42ea-baa7-aeb3279d5e3f))
-    (fp_arc (start 59.465859 84.253334) (mid 59.172717 84.96017) (end 58.465859 85.253334)
+    (fp_arc (start 59.465859 84.253334) (mid 59.172688 84.960141) (end 58.465859 85.253334)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 88a02299-312a-4428-bd7a-059d3666a8e4))
     (fp_arc (start 85.640773 60.325762) (mid 87.87573 59.941726) (end 90.139794 59.813163)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ae8bfcb5-2d29-48ff-8eeb-1933ec51bdf9))
-    (fp_arc (start 109.581168 59.300564) (mid 107.346212 59.684601) (end 105.082147 59.813163)
+    (fp_arc (start 109.581168 59.300564) (mid 107.346211 59.684597) (end 105.082147 59.813163)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp a5693d7a-277d-4698-85c9-9e23a175203d))
-    (fp_arc (start 112.256245 -0.000001) (mid 112.878736 0.217408) (end 113.230615 0.775048)
+    (fp_arc (start 112.256245 -0.000001) (mid 112.878761 0.217399) (end 113.230615 0.775048)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 3a424662-3dac-4936-8cb0-a3b190a283cc))
     (fp_arc (start 125.648939 54.564722) (mid 125.52263 55.319602) (end 124.899521 55.764044)
       (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 2c631409-a43d-4088-a25c-ba355b7a55b2))
@@ -6538,17 +6538,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp c84a77d5-34de-4bb6-ae6c-e23a44ce7215)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp fc0d837f-977f-43a0-a832-14ac43c0853f)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 88d953db-c8d6-4dad-8c16-669c95c0ee01)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 65474ef0-5753-4e88-981b-89b46f0a3358))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "F.Cu")
@@ -6557,17 +6557,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 9c2fc41e-477a-4e34-9a33-35a8d4d0935c)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp d059d8b2-a75b-4d78-8a25-7f2ce2f39e00)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp b294520c-5092-4a6d-a13f-d823de598186)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 2f0bdd0b-500f-4b88-8db0-eb01209555e7))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "F.Cu")
@@ -6576,17 +6576,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 3d86e5c0-c476-43c6-bec7-04291d808b3b)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 2f63ff25-28a9-4e2e-8bce-578fd5429545)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp a7cef2c7-f337-4fdd-bb9b-bac5fefd616b)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 05c8e921-f83e-443a-b96a-4d28a5968cd0))
   )
 
   (footprint "pimoroni:pim447" (layer "F.Cu")
@@ -6934,17 +6934,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp a2ca51c7-325f-4bb6-9086-7bf2e0400743)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp e014ed64-343b-4186-9742-92d965f66ad4)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp ecacb53f-244f-44c8-bb21-1f24f68591f4)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 7cec9a6e-5929-498c-b08d-b141a4337817))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "F.Cu")
@@ -6953,17 +6953,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 29e12360-ccff-474c-9bd7-54c00b1c1fea)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 6a62312a-08f5-4701-a109-f0b81a7a0d9a)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp a0aa1f53-720e-4357-ac77-db1dae5e178c)
     )
-    (pad "" np_thru_hole circle (at 0 -8) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 -8) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp e94704ad-735d-4bc3-8e76-4818856050d4))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "F.Cu")
@@ -6972,17 +6972,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 236c50a8-20a8-427b-8542-f19dd01be7fe)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 6fd0fb0d-268d-4593-9cc1-529c154ccebb)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 82d471e6-bf99-49b9-8b9a-c79ad2bfd248)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp c3778338-32fa-4d92-b7ae-76aa1de5b8b1))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "F.Cu")
@@ -6991,17 +6991,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 7f251111-0406-4273-b480-3efea73adae9)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 1 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 806d4440-11b7-47f8-8192-2300d9423b61)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp df1c5287-c386-4bb1-9bc1-449ff9b1226e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 70d5fe62-46f7-4324-b491-3c3440a33e68))
   )
 
   (footprint "kbd:D3_SMD_v2" (layer "B.Cu")
@@ -9060,17 +9060,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp ca6cfda0-77f8-4119-a721-06249ef2b9da)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 7e501372-bd3d-42e7-8b26-050e843bab53)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 7c921f5e-92fb-420b-9169-ac5b513716e4)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 58230d32-eeea-46c7-b576-cc726604782b))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "B.Cu")
@@ -9079,17 +9079,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp ee3ac213-67e8-4bef-b940-840a31936641)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 8f26d4e2-4129-4b70-9571-d0647d8414c4)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 86dfc3e0-cb42-453d-9281-d97a34ed4719)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 3162b84a-36ea-4790-9b29-ed1999472198))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "B.Cu")
@@ -9098,17 +9098,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp d0828f50-ff80-49fb-80fa-83b92f379931)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp f76aaf3e-7f7c-4b21-90d8-531fc15d27d1)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp c97ebc99-7065-4796-bd29-e3df4cf17de2)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 7ac8028f-ea78-4445-b2a1-00f444e67f25))
   )
 
   (footprint "holykeebs:logo .5x" (layer "B.Cu")
@@ -12941,17 +12941,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp a26eb43b-0ba5-4879-9e8c-36d74377c7de)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 084e871a-bb11-4880-b198-01f79a196b82)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 9113c4fe-5a03-44e5-b585-7713afb8866d)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 077a074b-d067-4eaa-b960-192148143b0b))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "B.Cu")
@@ -12960,17 +12960,17 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp c5dd7834-dac9-4c52-bc3f-0eda3cf96c71)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 0dd852a4-e08f-4477-94d2-38841cf302d7)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp ba94b099-78fc-4a21-9562-d5e49cf23ef3)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp c9734e17-d84f-437a-8064-59f8dd6bd31e))
   )
 
   (footprint "holykeebs:M2_HOLE_NPH" (layer "B.Cu")
@@ -12979,20 +12979,20 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ded21ce0-63a3-4c69-924b-8a897d725925)
+      (tstamp 50c1ab74-ab96-430b-91fb-94bda0b71a94)
     )
     (fp_text value "M2_HOLE_NPH" (at 0 -1 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 869c374e-5894-4b5a-83e1-c3fd39349f5c)
+      (tstamp 6be7b0e7-d24d-4df1-ad27-a5d58e812ea6)
     )
     (fp_text user "${REFERENCE}" (at 0.3 0) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp 9d824309-2029-4c60-8016-9c40b7d9bbd9)
+      (tstamp 394a96a5-0a1c-4d67-b99b-65b77bc8ad5a)
     )
-    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp bbd08fa8-9636-43ef-a941-bddc583b3952))
+    (pad "" np_thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 17f16e50-de1a-405e-a866-9c539ae075f1))
   )
 
-  (gr_text "reviung41 low profile\ngithub.com/idank/keyboards" (at 149.13 41.08 347) (layer "B.SilkS") (tstamp ef4f54e2-d9e6-48e2-a71c-fe2866b58897)
+  (gr_text "reviung41 low profile\ngithub.com/idank/keyboards@459c026" (at 149.13 41.08 347) (layer "B.SilkS") (tstamp ef4f54e2-d9e6-48e2-a71c-fe2866b58897)
     (effects (font (size 1 1.2) (thickness 0.2)) (justify mirror))
   )
 
