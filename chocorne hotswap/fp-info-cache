@@ -1,4 +1,4 @@
-21618725122153779
+21623805456259394
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89600,7 +89600,21 @@ logo
 0
 0
 holykeebs
-logo big
+logo .5x
+
+
+0
+0
+0
+holykeebs
+logo .75x
+
+
+0
+0
+0
+holykeebs
+logo 1x
 
 
 0
@@ -90210,6 +90224,13 @@ kailh,choc
 2
 keyswitches
 Kailh_socket_PG1350_optional_oval_1
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350_optional_oval_alternate_pinout
 Kailh "Choc" PG1350 keyswitch with optional socket mount
 kailh,choc
 0
