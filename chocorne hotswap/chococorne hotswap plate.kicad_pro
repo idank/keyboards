@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "chococorne hotswap plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
