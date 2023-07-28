@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "Corne Light")
-    (date "2018-12-26")
-    (rev "2.1")
-    (company "foostan")
+    (title "sweeq")
+    (date "2023-07-28")
+    (rev ".1")
+    (company "idank")
   )
 
   (lib_symbols
@@ -1332,7 +1332,7 @@
     (pin "8" (uuid 3e39ed94-c4ea-4a75-b1ab-90d2329682b6))
     (pin "9" (uuid a4d224b6-8970-4d61-a30e-22694c5e7047))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "U1") (unit 1)
         )
@@ -1358,7 +1358,7 @@
     (pin "1" (uuid e33d0a75-81cc-41b1-baf2-358fc115573d))
     (pin "2" (uuid 521883d0-40e0-4e61-b74b-f0b00b554fea))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW2") (unit 1)
         )
@@ -1384,7 +1384,7 @@
     (pin "1" (uuid 56690037-9352-48da-bef6-0aaa79de01d1))
     (pin "2" (uuid e9305f35-3e39-4bb7-81c2-fd5bc106bb26))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D2") (unit 1)
         )
@@ -1410,7 +1410,7 @@
     (pin "1" (uuid 95a68ac9-9e48-4e8c-8106-96a6bed86870))
     (pin "2" (uuid 7c885ead-44d7-4947-902d-f115021b1be3))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW3") (unit 1)
         )
@@ -1436,7 +1436,7 @@
     (pin "1" (uuid 7e62f402-49b6-4b95-9c40-7c0fbd26788b))
     (pin "2" (uuid 71840ddc-1f27-4116-be5e-4a446d37a436))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D3") (unit 1)
         )
@@ -1462,7 +1462,7 @@
     (pin "1" (uuid 203dcd8b-2070-4704-ab55-70018a1dee12))
     (pin "2" (uuid d391cd28-19c5-4ff5-89bd-76e573b68d17))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW4") (unit 1)
         )
@@ -1488,7 +1488,7 @@
     (pin "1" (uuid 4150a2ec-9b3c-4995-ade8-2d64d567fb67))
     (pin "2" (uuid 8cdc7759-ab53-463e-8119-65d6c538a5d6))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW5") (unit 1)
         )
@@ -1514,7 +1514,7 @@
     (pin "1" (uuid 9aedeadb-0146-445c-81e2-b0c42e8bce80))
     (pin "2" (uuid 4147445e-8e64-4323-ae05-55bc82f6c644))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D4") (unit 1)
         )
@@ -1540,7 +1540,7 @@
     (pin "1" (uuid 43d91088-ccf5-4f8e-bbf2-dae6a34f76fc))
     (pin "2" (uuid 65483df2-fc65-4e6d-a2e2-0b68f3c8612c))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D5") (unit 1)
         )
@@ -1566,7 +1566,7 @@
     (pin "1" (uuid fa02531b-863c-4827-a0a7-6dd579fc50ba))
     (pin "2" (uuid 51ba2f1b-56dd-4c87-b041-c052df3e131b))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW1") (unit 1)
         )
@@ -1592,7 +1592,7 @@
     (pin "1" (uuid 1ed24a59-5a8d-463b-adf6-ed4c6651a646))
     (pin "2" (uuid e0334a21-bd97-4e0f-a2cd-f7acc65cf6cf))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D1") (unit 1)
         )
@@ -1618,7 +1618,7 @@
     (pin "1" (uuid a9a2ec2a-c44a-4c2f-9b41-f2f4ddc212cc))
     (pin "2" (uuid 273e68db-d815-4301-888d-92ddd6f67421))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW8") (unit 1)
         )
@@ -1644,7 +1644,7 @@
     (pin "1" (uuid c5348f72-2ae0-4640-a25c-ba5b902dd7a9))
     (pin "2" (uuid b3a41a4d-51bc-4544-ba35-0f1718954495))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D8") (unit 1)
         )
@@ -1670,7 +1670,7 @@
     (pin "1" (uuid a236206e-8e67-4959-b498-cbc12866f908))
     (pin "2" (uuid ce1b51a5-c459-46c3-a7aa-3d4e28d1f0b2))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW9") (unit 1)
         )
@@ -1696,7 +1696,7 @@
     (pin "1" (uuid 5a5e2633-02c6-465c-a908-bf4cb0a06a9c))
     (pin "2" (uuid 21e01114-75cf-4b5e-b477-570309104976))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D9") (unit 1)
         )
@@ -1722,7 +1722,7 @@
     (pin "1" (uuid 814adede-33b0-4eb4-8d0f-f8e870cbdd57))
     (pin "2" (uuid 4c11d3b6-b81b-4640-95ae-99653b1765e9))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW10") (unit 1)
         )
@@ -1748,7 +1748,7 @@
     (pin "1" (uuid 94362483-edfd-4095-916c-69f3575ca24b))
     (pin "2" (uuid 93a101c2-f221-45ea-b151-8e3acde4e7ed))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW11") (unit 1)
         )
@@ -1774,7 +1774,7 @@
     (pin "1" (uuid 7064bb15-e7a8-4787-ad42-e0d55ce54a80))
     (pin "2" (uuid cd0aa2f4-066c-4219-a87a-a51ec874fd7c))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D10") (unit 1)
         )
@@ -1800,7 +1800,7 @@
     (pin "1" (uuid 85934227-0f0a-438a-ac2c-9d34fc5b6fc9))
     (pin "2" (uuid 35622807-81da-4c5e-9aca-fe1d87c8ecdf))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D11") (unit 1)
         )
@@ -1826,7 +1826,7 @@
     (pin "1" (uuid 64e9a611-7df7-407e-a102-b9b65c50b3ca))
     (pin "2" (uuid e0115fa7-e803-4101-83c4-bf25e9db0493))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW7") (unit 1)
         )
@@ -1852,7 +1852,7 @@
     (pin "1" (uuid 14438bd6-297c-4dae-ab4a-87d963ed4238))
     (pin "2" (uuid 3571cf43-f265-4297-878c-9f92121ae55c))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D7") (unit 1)
         )
@@ -1878,7 +1878,7 @@
     (pin "1" (uuid 1534d52b-4669-4abe-8033-d17a47a10f4c))
     (pin "2" (uuid a5f40cac-3527-4dae-b1f7-989f0bb5ebf8))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW14") (unit 1)
         )
@@ -1904,7 +1904,7 @@
     (pin "1" (uuid 628ff495-f2d9-40f8-8222-48ed437945ba))
     (pin "2" (uuid 07915386-f7c5-44e8-93d1-911509279ed2))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D14") (unit 1)
         )
@@ -1930,7 +1930,7 @@
     (pin "1" (uuid c08d9458-e7eb-4e64-8628-64daa4b09114))
     (pin "2" (uuid 42a81ead-029b-4069-9238-457cf79920f7))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW15") (unit 1)
         )
@@ -1956,7 +1956,7 @@
     (pin "1" (uuid d4e62e06-5b9a-4d60-8866-ac3eab468386))
     (pin "2" (uuid 5e18a19d-0d72-4ea3-b951-545798717898))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D15") (unit 1)
         )
@@ -1982,7 +1982,7 @@
     (pin "1" (uuid 49dab631-3f72-47c1-998d-a1d133e2d6ff))
     (pin "2" (uuid 94e14b85-d6dc-43c0-aa62-eae875aac254))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW16") (unit 1)
         )
@@ -2008,7 +2008,7 @@
     (pin "1" (uuid 778aee60-78cf-46df-a06d-5b1760f729ec))
     (pin "2" (uuid 041e8250-f5d4-4f49-92e0-c7ba06259eed))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW17") (unit 1)
         )
@@ -2034,7 +2034,7 @@
     (pin "1" (uuid 7f7f0314-a0a5-4602-9e19-9fce6c31db8b))
     (pin "2" (uuid 7d5ba266-3cb3-4d18-869f-e028712fbeb7))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D16") (unit 1)
         )
@@ -2060,7 +2060,7 @@
     (pin "1" (uuid 872a484f-8ab9-4603-ac73-18904317d067))
     (pin "2" (uuid 718070b3-128e-4233-8cbb-8b67c73a9aa3))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D17") (unit 1)
         )
@@ -2086,7 +2086,7 @@
     (pin "1" (uuid b04f72f1-3d47-4960-8083-cf5d63bc4fc3))
     (pin "2" (uuid 20fe385b-fd85-4892-aba5-90b51f20e487))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW13") (unit 1)
         )
@@ -2112,7 +2112,7 @@
     (pin "1" (uuid e48d298d-7a74-4ac9-9763-dbf1946fce14))
     (pin "2" (uuid 3dea1a87-5ac0-4605-a5bb-526493206eea))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D13") (unit 1)
         )
@@ -2138,7 +2138,7 @@
     (pin "1" (uuid 28ad1fd0-090e-4b37-8d44-67498a99682e))
     (pin "2" (uuid be0104b4-8cda-47c4-acad-84973bc4fac8))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW20") (unit 1)
         )
@@ -2164,7 +2164,7 @@
     (pin "1" (uuid 1a834a12-964d-4982-9d3a-d6f1dad4edbc))
     (pin "2" (uuid ed7934c8-afa4-4a17-b7e6-c2955b814f01))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D20") (unit 1)
         )
@@ -2190,7 +2190,7 @@
     (pin "1" (uuid 600e9732-34c6-42f0-8387-67a1c54f6596))
     (pin "2" (uuid 305190a6-c704-4065-8d5d-9927f5416829))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW19") (unit 1)
         )
@@ -2216,7 +2216,7 @@
     (pin "1" (uuid a16686c3-394a-49ab-ad55-ac9c1f94fa1a))
     (pin "2" (uuid 6d1cbefc-fcf6-436c-8d7d-b3ceb7f48dbd))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D19") (unit 1)
         )
@@ -2241,7 +2241,7 @@
     )
     (pin "1" (uuid 063db01c-82c9-48f0-b95b-3d797fc4cec0))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR03") (unit 1)
         )
@@ -2266,7 +2266,7 @@
     )
     (pin "1" (uuid 7365afc4-55cc-48d3-a1ec-5a409619b45b))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR05") (unit 1)
         )
@@ -2291,7 +2291,7 @@
     )
     (pin "1" (uuid 05dc4551-eb96-4dae-b526-63b2e2c471b7))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR04") (unit 1)
         )
@@ -2316,7 +2316,7 @@
     )
     (pin "1" (uuid 2f9983b3-0bae-4533-9f33-281dabfe37d6))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR01") (unit 1)
         )
@@ -2341,7 +2341,7 @@
     )
     (pin "1" (uuid 8a0c4b03-5bd8-489b-acac-50154731b765))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR02") (unit 1)
         )
@@ -2366,7 +2366,7 @@
     )
     (pin "1" (uuid ff66a775-3143-434a-9835-bb0977544223))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#FLG02") (unit 1)
         )
@@ -2391,7 +2391,7 @@
     )
     (pin "1" (uuid 8a5e4a88-27fb-4c56-84d2-2a4e768c3c63))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#FLG01") (unit 1)
         )
@@ -2417,7 +2417,7 @@
     (pin "1" (uuid 31d9e46c-7384-4245-8074-c37516cfb8f2))
     (pin "2" (uuid a670a67a-a029-499b-83fd-eee28118110f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "RSW1") (unit 1)
         )
@@ -2442,7 +2442,7 @@
     )
     (pin "1" (uuid 91679183-3bc2-448f-a3d4-d02b797a5eaa))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR07") (unit 1)
         )
@@ -2467,7 +2467,7 @@
     )
     (pin "1" (uuid 7d96cdee-e44c-47c7-8d63-3a0c04fe8d1f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR06") (unit 1)
         )
@@ -2492,7 +2492,7 @@
     )
     (pin "1" (uuid 2944761f-3c8b-4192-a7d0-4e2407a5339f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR08") (unit 1)
         )
@@ -2520,7 +2520,7 @@
     (pin "C" (uuid bb049595-17fa-4426-9467-480092b0a50d))
     (pin "D" (uuid 04c5d671-989b-4064-a212-1d92fe127915))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "J1") (unit 1)
         )
@@ -2546,7 +2546,7 @@
     (pin "1" (uuid ec2962f1-8ae3-4438-a6c8-dd50b9e11adf))
     (pin "2" (uuid e32bfec1-6ae7-4dec-8d5f-f75bca4a761c))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW30") (unit 1)
         )
@@ -2572,7 +2572,7 @@
     (pin "1" (uuid 3668d503-4883-4bab-a904-90fd73fa7bb1))
     (pin "2" (uuid 08a4d9a0-3f13-45a3-819e-d736d0394a6f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW29") (unit 1)
         )
@@ -2598,7 +2598,7 @@
     (pin "1" (uuid 14f706e4-8663-42bd-b1c4-b206818766c5))
     (pin "2" (uuid e8489ed7-1879-4071-bbae-2a8df38cd78d))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D33") (unit 1)
         )
@@ -2623,7 +2623,7 @@
     )
     (pin "1" (uuid 810a46a7-6531-4c38-b10e-a008c17f46ed))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR012") (unit 1)
         )
@@ -2649,7 +2649,7 @@
     (pin "1" (uuid 894c0b96-43ca-4eee-bd39-0f9162a38ce3))
     (pin "2" (uuid bf83acd8-5b8e-43a8-91a8-9e0232db0e91))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW24") (unit 1)
         )
@@ -2675,7 +2675,7 @@
     (pin "1" (uuid 88035eca-e393-46df-8688-cde8f0fa2dab))
     (pin "2" (uuid 5af67d28-8732-4b66-bb1d-2e61f3642757))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D31") (unit 1)
         )
@@ -2701,7 +2701,7 @@
     (pin "1" (uuid 98138110-2c74-45d7-bc50-a44225a5d654))
     (pin "2" (uuid 69fde204-8fbe-4151-a3c3-d77d90db117d))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D29") (unit 1)
         )
@@ -2727,7 +2727,7 @@
     (pin "1" (uuid 82948b0d-5b9c-4e01-8b06-7f905525129d))
     (pin "2" (uuid 8280f62d-6d21-4533-aad2-f086b1c81ae8))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW25") (unit 1)
         )
@@ -2753,7 +2753,7 @@
     (pin "1" (uuid 30d4ebec-b526-4bd7-bc25-663815f5e223))
     (pin "2" (uuid 730fb0db-ee85-40f7-a08a-bf700c337936))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW28") (unit 1)
         )
@@ -2778,7 +2778,7 @@
     )
     (pin "1" (uuid fbe2769d-a951-4833-b22a-7b7768f8713b))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#FLG04") (unit 1)
         )
@@ -2804,7 +2804,7 @@
     (pin "1" (uuid 327de1c1-86c4-47f9-ae68-935ad58590fa))
     (pin "2" (uuid 5d5c3876-5504-4f31-b0e6-eae7e67d4274))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D27") (unit 1)
         )
@@ -2852,7 +2852,7 @@
     (pin "8" (uuid 2a71931a-5699-40e5-aa6b-eafc82601b7d))
     (pin "9" (uuid a6e8aa87-5e6a-4f2d-8f0b-4fa276fcdb03))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "U2") (unit 1)
         )
@@ -2877,7 +2877,7 @@
     )
     (pin "1" (uuid b0e023fe-e8e5-48de-8936-fea0e1919004))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR09") (unit 1)
         )
@@ -2903,7 +2903,7 @@
     (pin "1" (uuid d0756300-b2dc-4a76-9c5d-9ff4d989ec1c))
     (pin "2" (uuid 19b8c6eb-2370-4993-8281-178a1595342b))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D34") (unit 1)
         )
@@ -2929,7 +2929,7 @@
     (pin "1" (uuid a67da5f4-7b89-41cb-92c2-835b672a4003))
     (pin "2" (uuid 780db779-79e8-430b-934a-797e265b982f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D24") (unit 1)
         )
@@ -2954,7 +2954,7 @@
     )
     (pin "1" (uuid 92c31777-1121-4bc4-ba89-2cc2222b4844))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR014") (unit 1)
         )
@@ -2982,7 +2982,7 @@
     (pin "C" (uuid 4fb840ac-0094-4142-a659-240d7f9b8ab8))
     (pin "D" (uuid 24f48f4b-a387-4209-8804-e2a8099ce960))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "J2") (unit 1)
         )
@@ -3008,7 +3008,7 @@
     (pin "1" (uuid 7e9265aa-5341-4c06-9669-be169e535f70))
     (pin "2" (uuid 2321df28-bd90-43e2-96c1-29782d09ae1b))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW21") (unit 1)
         )
@@ -3034,7 +3034,7 @@
     (pin "1" (uuid 22f7cc12-120e-42be-a97e-b22be8e4e1ea))
     (pin "2" (uuid 58a1d86a-d92e-4a35-92f4-adc5684cd4ee))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D18") (unit 1)
         )
@@ -3059,7 +3059,7 @@
     )
     (pin "1" (uuid 89fd8de6-d370-45f9-95c8-a4bfa4862eb6))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR011") (unit 1)
         )
@@ -3085,7 +3085,7 @@
     (pin "1" (uuid a2c28c21-ae51-4d65-b21f-9299659253ab))
     (pin "2" (uuid 112d57c1-20eb-43a2-95bb-2114f6a810a5))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW18") (unit 1)
         )
@@ -3111,7 +3111,7 @@
     (pin "1" (uuid a6fe721a-c880-4783-9f50-7f0261a84d38))
     (pin "2" (uuid c542418e-2635-4c91-b19b-109becc5c8f8))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW22") (unit 1)
         )
@@ -3137,7 +3137,7 @@
     (pin "1" (uuid 2e742229-d9e1-4aee-92fe-8b49f8c34ca4))
     (pin "2" (uuid 1f068ea7-8d8e-4b05-9acb-c7042eb20554))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D21") (unit 1)
         )
@@ -3163,7 +3163,7 @@
     (pin "1" (uuid 1adacb1f-73fc-4f83-b3f6-22e762759adf))
     (pin "2" (uuid 2640b4fc-7dd4-41bc-bc00-e31373c9b1bf))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW6") (unit 1)
         )
@@ -3189,7 +3189,7 @@
     (pin "1" (uuid 31d09826-f6ef-429a-8590-53db74756c43))
     (pin "2" (uuid cabceb27-7dba-4365-b17e-37904fd40d95))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW26") (unit 1)
         )
@@ -3215,7 +3215,7 @@
     (pin "1" (uuid 070a8938-b23f-4406-b634-ecfb600747c5))
     (pin "2" (uuid b49568cb-9c20-48ac-b0d4-dc3184539c9f))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D26") (unit 1)
         )
@@ -3241,7 +3241,7 @@
     (pin "1" (uuid 85d5e5fc-7a25-408e-9fc3-a5e65d60ec1e))
     (pin "2" (uuid 00f01dfb-4b04-4625-ac11-e1a91b6e2186))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D6") (unit 1)
         )
@@ -3267,7 +3267,7 @@
     (pin "1" (uuid c4e937cc-e830-4fdd-9071-2a2dd89bdad1))
     (pin "2" (uuid ec387233-8a02-474f-aeb4-2ffbf43721d1))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D12") (unit 1)
         )
@@ -3293,7 +3293,7 @@
     (pin "1" (uuid 89ef3888-c794-4f5b-82bf-b792364cfc60))
     (pin "2" (uuid 504eb66d-5aa6-4aee-82dd-c02889e59d8a))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW31") (unit 1)
         )
@@ -3319,7 +3319,7 @@
     (pin "1" (uuid 266e8fdb-b21b-48b9-a1cf-2b103b70ceff))
     (pin "2" (uuid 7e4e4596-b2df-4d2a-ab68-67aa0b4e5869))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW27") (unit 1)
         )
@@ -3345,7 +3345,7 @@
     (pin "1" (uuid cf5121b0-4e87-4e0c-be4e-6eba15787a25))
     (pin "2" (uuid 13837a2f-ae8c-470c-ae4f-a8957f1ebaf2))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D25") (unit 1)
         )
@@ -3371,7 +3371,7 @@
     (pin "1" (uuid 222c68cc-254a-4b74-98cf-dab7f7243953))
     (pin "2" (uuid f10a7559-865e-40e5-b602-43bc61b8c18e))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW12") (unit 1)
         )
@@ -3397,7 +3397,7 @@
     (pin "1" (uuid ab5dd617-41ad-4b9a-80c7-c493aac4311b))
     (pin "2" (uuid 6a49911f-fc3c-4605-8d92-bb22cf411b07))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D30") (unit 1)
         )
@@ -3422,7 +3422,7 @@
     )
     (pin "1" (uuid 8b2839de-e728-4145-ac3f-0a994547be0e))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR015") (unit 1)
         )
@@ -3447,7 +3447,7 @@
     )
     (pin "1" (uuid 788597dd-73b0-446d-a5f6-9eb369b48798))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR016") (unit 1)
         )
@@ -3472,7 +3472,7 @@
     )
     (pin "1" (uuid 6daef835-920f-4626-b209-e976d9d284b3))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR013") (unit 1)
         )
@@ -3498,7 +3498,7 @@
     (pin "1" (uuid e0561519-b4f3-4101-8eaf-b08500b36738))
     (pin "2" (uuid 1bc89ea6-9574-49e5-8b5b-657b1d4b5cc2))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D32") (unit 1)
         )
@@ -3523,7 +3523,7 @@
     )
     (pin "1" (uuid 7d0746ea-06bb-46b5-a070-e26a5eb3499c))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#PWR010") (unit 1)
         )
@@ -3549,7 +3549,7 @@
     (pin "1" (uuid feb69479-ddfc-4a31-ba14-13fec3cc2474))
     (pin "2" (uuid f18e3007-ef5d-487a-a5ea-c8d29235e797))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW32") (unit 1)
         )
@@ -3575,7 +3575,7 @@
     (pin "1" (uuid 21885c79-07d9-4132-8d0d-5675ba68701a))
     (pin "2" (uuid 43ad433d-83d3-4cef-8d2e-2ea2ffdcbd22))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW23") (unit 1)
         )
@@ -3601,7 +3601,7 @@
     (pin "1" (uuid 2e58beba-e660-4a78-848a-7aac011b3438))
     (pin "2" (uuid 8da7cabd-5c37-459a-99aa-950a45710f30))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D23") (unit 1)
         )
@@ -3627,7 +3627,7 @@
     (pin "1" (uuid 6ab04a1c-50d2-4326-9098-a7c7181e4395))
     (pin "2" (uuid 0af86558-766c-4802-b420-f803f5ebc353))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "RSW2") (unit 1)
         )
@@ -3653,7 +3653,7 @@
     (pin "1" (uuid b8a68b03-da9f-41ff-ab0b-eca2dca308c8))
     (pin "2" (uuid 767ca0b7-b7b3-4cc1-a8da-58ca167e6664))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D28") (unit 1)
         )
@@ -3679,7 +3679,7 @@
     (pin "1" (uuid cf2ed892-2ec9-46f3-b8bc-6d9ecb1d0293))
     (pin "2" (uuid c0377893-a773-4660-b53d-38e3dd45a30d))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW33") (unit 1)
         )
@@ -3705,7 +3705,7 @@
     (pin "1" (uuid cbd01cd4-87ad-41ff-abf1-1fbb8cddc30e))
     (pin "2" (uuid 7c4f4cd1-25eb-4c90-94bd-731e8ad1763a))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "D22") (unit 1)
         )
@@ -3731,7 +3731,7 @@
     (pin "1" (uuid 63b05bb0-7abc-48fa-a9ed-8484a106328a))
     (pin "2" (uuid 5fc49fce-6801-435e-bcf8-0dbc0132e838))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "SW34") (unit 1)
         )
@@ -3756,7 +3756,7 @@
     )
     (pin "1" (uuid cc9bfe9e-a2e7-44f5-91e5-e6d25e5f1713))
     (instances
-      (project "chococorne"
+      (project "sweeq"
         (path "/e1bb6603-5312-4208-8a34-43c6ce03c5a1"
           (reference "#FLG03") (unit 1)
         )
