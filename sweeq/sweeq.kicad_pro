@@ -410,7 +410,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "chococorne.kicad_pro",
+    "filename": "sweeq.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -472,7 +472,7 @@
       "idf": "",
       "netlist": "robot.net",
       "specctra_dsn": "",
-      "step": "chococorne hotswap.step",
+      "step": "sweeq.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
