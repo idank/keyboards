@@ -399,7 +399,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "r41l2.kicad_pro",
+    "filename": "reviung41 low profile.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -435,7 +435,7 @@
       "idf": "",
       "netlist": "r41lp.net",
       "specctra_dsn": "",
-      "step": "../../r41l2.step",
+      "step": "reviung41 low profile.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -406,7 +406,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "41_1350_pcb.kicad_pro",
+    "filename": "reviung41 choc.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -875,7 +875,7 @@
       "idf": "",
       "netlist": "r41lp.net",
       "specctra_dsn": "",
-      "step": "41_1350_pcb.step",
+      "step": "reviung41 choc.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
