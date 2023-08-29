@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "Lily58-rescue")(type "Legacy")(uri "${KIPRJMOD}/Lily58-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "Lily58-rescue")(type "KiCad")(uri "${KIPRJMOD}/Lily58-rescue.kicad_sym")(options "")(descr ""))
 )
