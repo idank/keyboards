@@ -2,3 +2,4 @@
 *-backups
 production
 _autosave*
+~*.kicad_pcb.lck
