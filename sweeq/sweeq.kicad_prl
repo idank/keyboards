@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 48,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -65,11 +65,11 @@
       39,
       40
     ],
-    "visible_layers": "ffcb5ff_ffffffff",
+    "visible_layers": "fffb5ff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "chococorne.kicad_prl",
+    "filename": "sweeq.kicad_prl",
     "version": 3
   },
   "project": {
