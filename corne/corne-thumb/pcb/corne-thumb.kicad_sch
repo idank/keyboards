@@ -660,6 +660,9 @@
   (junction (at 104.775 39.37) (diameter 0) (color 0 0 0 0)
     (uuid 138d69db-eca2-46ca-86ab-b43666dc2779)
   )
+  (junction (at 85.09 160.02) (diameter 0) (color 0 0 0 0)
+    (uuid 16e3ed10-20b7-4338-8afc-3e4464dee414)
+  )
   (junction (at 49.53 114.3) (diameter 0) (color 0 0 0 0)
     (uuid 17aa47e0-b218-4585-b48b-975ef1236a8c)
   )
@@ -714,9 +717,6 @@
   (junction (at 66.675 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 725f8d5c-9a43-4378-b881-2b6d2f25d994)
   )
-  (junction (at 102.87 160.02) (diameter 0) (color 0 0 0 0)
-    (uuid 786d117d-085a-4910-acbf-1f40b286f805)
-  )
   (junction (at 52.07 106.68) (diameter 0) (color 0 0 0 0)
     (uuid 7a392e05-cc02-4883-b9a6-f21348560a58)
   )
@@ -747,9 +747,6 @@
   (junction (at 31.115 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 9d5572fb-2914-4007-90f7-6aac9b1c1a15)
   )
-  (junction (at 105.41 137.16) (diameter 0) (color 0 0 0 0)
-    (uuid a0194074-db3c-40ee-8434-2de494162b39)
-  )
   (junction (at 84.455 77.47) (diameter 0) (color 0 0 0 0)
     (uuid a26b31c9-9707-4d3e-8873-80bbee998cd2)
   )
@@ -764,6 +761,9 @@
   )
   (junction (at 86.995 24.13) (diameter 0) (color 0 0 0 0)
     (uuid ac466639-59d9-42ec-8848-c3b0a47d3ad9)
+  )
+  (junction (at 69.85 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid b089677d-90ce-4fc0-8837-92f629224e17)
   )
   (junction (at 31.115 46.99) (diameter 0) (color 0 0 0 0)
     (uuid bcebb537-3a27-4dbd-9da1-fd176d1c0381)
@@ -926,7 +926,7 @@
     (stroke (width 0) (type default))
     (uuid 2937aca3-a243-4402-b7e1-4b10f6f9b081)
   )
-  (wire (pts (xy 80.645 160.02) (xy 102.87 160.02))
+  (wire (pts (xy 80.645 160.02) (xy 85.09 160.02))
     (stroke (width 0) (type default))
     (uuid 2d22bc62-0190-4ba7-ba93-1bd336288fa9)
   )
@@ -1038,6 +1038,10 @@
     (stroke (width 0) (type default))
     (uuid 7672f913-a377-4bcd-9c87-7d13ae118657)
   )
+  (wire (pts (xy 85.09 160.02) (xy 102.87 160.02))
+    (stroke (width 0) (type default))
+    (uuid 7831cf00-0e18-491f-a397-803a8b71bfa7)
+  )
   (wire (pts (xy 86.995 39.37) (xy 86.995 54.61))
     (stroke (width 0) (type default))
     (uuid 7a8caeba-bfd9-4edb-916f-b905735923df)
@@ -1122,6 +1126,10 @@
     (stroke (width 0) (type default))
     (uuid a4c1f741-6a2b-4bee-b70c-7f7d9ec8ab2e)
   )
+  (wire (pts (xy 69.85 137.16) (xy 69.85 152.4))
+    (stroke (width 0) (type default))
+    (uuid a8cf8210-4625-4443-8d75-bb289b07e0e2)
+  )
   (wire (pts (xy 48.895 62.23) (xy 66.675 62.23))
     (stroke (width 0) (type default))
     (uuid a8d11a01-a68d-44eb-b261-4818fa27ae42)
@@ -1194,10 +1202,6 @@
     (stroke (width 0) (type default))
     (uuid cc3e196d-3091-45d1-a978-34a13291e1db)
   )
-  (wire (pts (xy 102.87 160.02) (xy 120.65 160.02))
-    (stroke (width 0) (type default))
-    (uuid cdd33089-7058-4ec8-b3a5-80f1b6cba217)
-  )
   (wire (pts (xy 48.895 46.99) (xy 66.675 46.99))
     (stroke (width 0) (type default))
     (uuid cde2203c-6167-4f6f-92f7-3c0be193cecf)
@@ -1225,10 +1229,6 @@
   (wire (pts (xy 48.895 31.75) (xy 66.675 31.75))
     (stroke (width 0) (type default))
     (uuid de293d09-bb65-49c7-86fa-7f58259f478d)
-  )
-  (wire (pts (xy 105.41 137.16) (xy 105.41 152.4))
-    (stroke (width 0) (type default))
-    (uuid df143a1c-8fa2-4c6f-9a27-52be09920f87)
   )
   (wire (pts (xy 16.51 106.68) (xy 16.51 121.92))
     (stroke (width 0) (type default))
@@ -1742,7 +1742,7 @@
     (pin "8" (uuid 0af4df5e-04c0-4413-91c4-3087632e4b40))
     (pin "9" (uuid 8d886806-dd63-4bb1-b3ac-72fff35bfcd5))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "U1") (unit 1)
         )
@@ -1768,7 +1768,7 @@
     (pin "1" (uuid 7061c092-8708-4fce-be2f-2735a2b4a582))
     (pin "2" (uuid 5e41a70c-f9dd-4b47-97b2-38256e0d4fb5))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW2") (unit 1)
         )
@@ -1794,7 +1794,7 @@
     (pin "1" (uuid b91cc13f-2147-4715-90ee-7a66bb0aaf65))
     (pin "2" (uuid def8dca4-c653-4250-96e2-c7ffc4db6e1f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D2") (unit 1)
         )
@@ -1820,7 +1820,7 @@
     (pin "1" (uuid 098ee08f-17fb-4766-9222-4f3a2811fb11))
     (pin "2" (uuid fdd1bf2d-c04a-4bb0-aab8-56809254dfd1))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW3") (unit 1)
         )
@@ -1846,7 +1846,7 @@
     (pin "1" (uuid 501c37a4-d966-4e27-8faf-2a7e3905a5a1))
     (pin "2" (uuid 70829b65-6ff3-4b9e-aeb4-3e5b4c007d01))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D3") (unit 1)
         )
@@ -1872,7 +1872,7 @@
     (pin "1" (uuid 23795f95-b942-41b9-be84-0c4002066edf))
     (pin "2" (uuid 2471e7de-b42c-449d-acf2-e82d42577017))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW4") (unit 1)
         )
@@ -1898,7 +1898,7 @@
     (pin "1" (uuid 008db3f7-7288-48a2-853e-a16696fead5c))
     (pin "2" (uuid c76bb14a-5910-43bd-9e79-c00b2acb61f8))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW5") (unit 1)
         )
@@ -1924,7 +1924,7 @@
     (pin "1" (uuid eb9b7037-7675-4133-bf19-7973c70ffc76))
     (pin "2" (uuid 2e614823-731b-4c30-93aa-0fb9a9d5bb3d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW6") (unit 1)
         )
@@ -1950,7 +1950,7 @@
     (pin "1" (uuid 3fa8ec7a-6fc1-4280-81fc-d1d0a544af65))
     (pin "2" (uuid a891bdfa-297b-4e76-8abb-616ae8cde92b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D4") (unit 1)
         )
@@ -1976,7 +1976,7 @@
     (pin "1" (uuid 9d64a313-b655-45f5-937d-9ef88b7fac4a))
     (pin "2" (uuid f9aa2b45-35d2-46fd-9673-471d0df03142))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D5") (unit 1)
         )
@@ -2002,7 +2002,7 @@
     (pin "1" (uuid b652cdce-9ec2-444b-bc3a-f99f1be5cfa3))
     (pin "2" (uuid e71ef066-de13-414d-b695-169b528785f2))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D6") (unit 1)
         )
@@ -2028,7 +2028,7 @@
     (pin "1" (uuid e54d8aa3-4022-42a6-b4f8-32542068cbe7))
     (pin "2" (uuid 53dc3c22-b252-4213-af3b-cc986765dc90))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW1") (unit 1)
         )
@@ -2054,7 +2054,7 @@
     (pin "1" (uuid b010b9c3-e03d-459e-b342-fc9f4b74c66c))
     (pin "2" (uuid 22f0c375-a866-4d70-a062-5c61b7640e98))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D1") (unit 1)
         )
@@ -2080,7 +2080,7 @@
     (pin "1" (uuid aa2f3e14-5d5f-46b7-ab94-367006537dfd))
     (pin "2" (uuid c4590e70-487f-4fac-a1ec-198854153221))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW8") (unit 1)
         )
@@ -2106,7 +2106,7 @@
     (pin "1" (uuid 608fe2af-b3c9-4bfa-bcd9-01eb426f4249))
     (pin "2" (uuid 3f460735-d122-4e97-8d3f-b00d509a959d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D8") (unit 1)
         )
@@ -2132,7 +2132,7 @@
     (pin "1" (uuid c8749c03-ea37-46c4-aded-740d1687ca6f))
     (pin "2" (uuid 02eea3b9-d88d-48fb-a439-ebf199322763))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW9") (unit 1)
         )
@@ -2158,7 +2158,7 @@
     (pin "1" (uuid 017d3cf8-9cb9-48a2-bbfe-ed6b4185eec4))
     (pin "2" (uuid 897a0879-c455-416f-b3e9-5c11d52b187b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D9") (unit 1)
         )
@@ -2184,7 +2184,7 @@
     (pin "1" (uuid 26f040a7-17fb-4dee-9494-010371985cd2))
     (pin "2" (uuid 5cc94ed5-37f5-43d0-8d92-14d4faccc36a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW10") (unit 1)
         )
@@ -2210,7 +2210,7 @@
     (pin "1" (uuid a571ce76-bc64-4710-9832-6b15153993bd))
     (pin "2" (uuid a60ee282-b19f-4dec-a9f0-62426d11ebcc))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW11") (unit 1)
         )
@@ -2236,7 +2236,7 @@
     (pin "1" (uuid 8298bc9e-7ab4-44fd-8061-e9dd56f4301b))
     (pin "2" (uuid 853bc73c-898e-400d-940a-2da9d2938a6b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW12") (unit 1)
         )
@@ -2262,7 +2262,7 @@
     (pin "1" (uuid 5b0ce78a-1f21-4942-ac33-543042f72cab))
     (pin "2" (uuid 6f131cab-195b-4c2d-a680-fd0834d1885d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D10") (unit 1)
         )
@@ -2288,7 +2288,7 @@
     (pin "1" (uuid 8088a13d-3de0-4289-88bb-1afa7da9da6b))
     (pin "2" (uuid df906e2b-bf5b-4ad5-aa71-1afb89320ac9))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D11") (unit 1)
         )
@@ -2314,7 +2314,7 @@
     (pin "1" (uuid f8c52d39-c2d8-4f98-911a-cfdfc35e460f))
     (pin "2" (uuid 5ac4e665-1a79-488a-967d-a859d8d4f7b1))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D12") (unit 1)
         )
@@ -2340,7 +2340,7 @@
     (pin "1" (uuid 3332c59b-33d2-4bbb-9ae9-be9586db828e))
     (pin "2" (uuid 0a40b00e-e87b-4e85-a26b-f7da47757367))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW7") (unit 1)
         )
@@ -2366,7 +2366,7 @@
     (pin "1" (uuid 02d370de-cb0e-4702-887c-50035b7ec680))
     (pin "2" (uuid 1d74c3ef-d9b5-42ed-9c1b-8ce72c8852d2))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D7") (unit 1)
         )
@@ -2392,7 +2392,7 @@
     (pin "1" (uuid d2f08f38-37eb-4bdc-849b-4e6ba67c8cc6))
     (pin "2" (uuid 2eb61456-8b88-473f-9709-4c628798cd07))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW14") (unit 1)
         )
@@ -2418,7 +2418,7 @@
     (pin "1" (uuid f3c93046-6a11-49e0-9841-a5d8854584c0))
     (pin "2" (uuid b3f59848-5479-46f9-89be-fc7524f6b62c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D14") (unit 1)
         )
@@ -2444,7 +2444,7 @@
     (pin "1" (uuid a7013927-f3ad-4ef7-a805-f9cefacd2c4d))
     (pin "2" (uuid 98e744b1-767c-4fe0-a4de-feac3800f9f6))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW15") (unit 1)
         )
@@ -2470,7 +2470,7 @@
     (pin "1" (uuid fb25dde9-1170-4ee2-ade1-ba56c85e5dff))
     (pin "2" (uuid f7a1c69c-ae6a-4f80-990c-ac3341eda97c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D15") (unit 1)
         )
@@ -2496,7 +2496,7 @@
     (pin "1" (uuid d317d8f2-e8c3-4234-996a-00a32f74e305))
     (pin "2" (uuid 6b54a517-d52d-4bc3-8f0c-a484d846c2b4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW16") (unit 1)
         )
@@ -2522,7 +2522,7 @@
     (pin "1" (uuid f99db64c-c432-4631-bc16-b1f5ff37befc))
     (pin "2" (uuid b6621687-4107-4656-9cd0-d002f9b7ddc4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW17") (unit 1)
         )
@@ -2548,7 +2548,7 @@
     (pin "1" (uuid 5ccd05a8-0cc3-47c2-8ebd-0683f7574b17))
     (pin "2" (uuid a5c170a8-fcc4-447b-87ab-db521445ed65))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW18") (unit 1)
         )
@@ -2574,7 +2574,7 @@
     (pin "1" (uuid 5dc8a1e7-26f1-4aa5-930e-1a585bbb4f33))
     (pin "2" (uuid 577a483a-de60-4435-8254-c420151631c6))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D16") (unit 1)
         )
@@ -2600,7 +2600,7 @@
     (pin "1" (uuid da6fc48c-3279-44af-a43b-42db9afd5a01))
     (pin "2" (uuid 0d8339be-f316-4339-a623-f3d676848e5b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D17") (unit 1)
         )
@@ -2626,7 +2626,7 @@
     (pin "1" (uuid 7288ad17-2997-47b4-b160-2731e11b09f8))
     (pin "2" (uuid bb870fdd-f8d2-4e73-9161-6eced872e829))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D18") (unit 1)
         )
@@ -2652,7 +2652,7 @@
     (pin "1" (uuid 0151a608-0e7b-4740-9dea-2920885039ce))
     (pin "2" (uuid 89337f6a-ffb3-4874-96d1-138756f88f16))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW13") (unit 1)
         )
@@ -2678,7 +2678,7 @@
     (pin "1" (uuid 50da5e35-6d95-4465-b51f-91061162c5ce))
     (pin "2" (uuid 7679dbc1-e31f-4657-88fe-3f2194de988e))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D13") (unit 1)
         )
@@ -2704,7 +2704,7 @@
     (pin "1" (uuid dccecdd8-62a8-4916-a7ba-34e65e2cd86a))
     (pin "2" (uuid f3469ea2-4c72-4b62-8f26-7df487b30449))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW20") (unit 1)
         )
@@ -2730,7 +2730,7 @@
     (pin "1" (uuid 86289f36-4654-4e05-9428-c9f63b7f6da1))
     (pin "2" (uuid 6887c716-0a0c-4ad6-a7b7-95fa7260f757))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D20") (unit 1)
         )
@@ -2756,7 +2756,7 @@
     (pin "1" (uuid 77c14224-7515-44a7-8e07-08b81a8c4fa6))
     (pin "2" (uuid ba2a430f-6f77-4605-95da-15b684aa1a0f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW21") (unit 1)
         )
@@ -2782,7 +2782,7 @@
     (pin "1" (uuid e90e23c4-ddb6-40c9-b61c-0657053e8cb6))
     (pin "2" (uuid 0239d04a-63b6-4b01-af6c-639c93572103))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D21") (unit 1)
         )
@@ -2808,7 +2808,7 @@
     (pin "1" (uuid 90442688-216a-4471-8a0f-8106ddc99a57))
     (pin "2" (uuid 922b046b-8542-4f20-9084-e2b88d985c35))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW19") (unit 1)
         )
@@ -2834,7 +2834,7 @@
     (pin "1" (uuid c97f356a-1e6f-4e29-b20f-6ffa71a835a2))
     (pin "2" (uuid c3d5e8a9-6c00-4ee1-b258-208bf7f798fb))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D19") (unit 1)
         )
@@ -2859,7 +2859,7 @@
     )
     (pin "1" (uuid cbcb07f4-4462-4055-9d53-95cd0575dedc))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR03") (unit 1)
         )
@@ -2884,7 +2884,7 @@
     )
     (pin "1" (uuid 0be9f8fc-5a00-4304-97c3-34a73856077e))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR05") (unit 1)
         )
@@ -2909,7 +2909,7 @@
     )
     (pin "1" (uuid 4a60a975-d990-481e-8221-fd34e3678c0a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR04") (unit 1)
         )
@@ -2934,7 +2934,7 @@
     )
     (pin "1" (uuid 87fc414b-9ba6-4920-b283-3338dcd2dce5))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR01") (unit 1)
         )
@@ -2959,7 +2959,7 @@
     )
     (pin "1" (uuid b8b16a61-783b-49f6-9f46-94434cb38229))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR02") (unit 1)
         )
@@ -2984,7 +2984,7 @@
     )
     (pin "1" (uuid 7d45e530-b2e1-4cce-ac52-fe8ac51f9b9c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#FLG02") (unit 1)
         )
@@ -3009,7 +3009,7 @@
     )
     (pin "1" (uuid 859d4c95-695e-4559-900a-9df265d174e2))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#FLG01") (unit 1)
         )
@@ -3035,7 +3035,7 @@
     (pin "1" (uuid 679649e9-103d-4b34-8257-6af684cbcdf2))
     (pin "2" (uuid 4ea3f5e5-609b-486c-a1a6-42ae5c28e689))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "RSW1") (unit 1)
         )
@@ -3060,7 +3060,7 @@
     )
     (pin "1" (uuid c71ce233-7bb9-4aea-afb0-f5598da19ca8))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR07") (unit 1)
         )
@@ -3085,7 +3085,7 @@
     )
     (pin "1" (uuid 08abf8da-ec58-46ea-9e61-78b61f87d261))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR06") (unit 1)
         )
@@ -3110,7 +3110,7 @@
     )
     (pin "1" (uuid dd62ead7-6bd2-4d86-b935-25d46bc88135))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR08") (unit 1)
         )
@@ -3138,7 +3138,7 @@
     (pin "3" (uuid 49a65af9-cfc5-46fe-8b10-ba3f0276b89b))
     (pin "4" (uuid c2533767-6b1b-4ff4-99bf-18c02cedfe2e))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "J2") (unit 1)
         )
@@ -3163,7 +3163,7 @@
     )
     (pin "1" (uuid dc7d8a84-2240-4bc9-87d5-ab46ed1aee8d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR019") (unit 1)
         )
@@ -3188,7 +3188,7 @@
     )
     (pin "1" (uuid c9dbde38-2419-413e-946f-6991be6befe4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR018") (unit 1)
         )
@@ -3216,7 +3216,7 @@
     (pin "C" (uuid 0b0d46da-0736-475d-ab7e-133437da9ec9))
     (pin "D" (uuid b09b98b6-0c0a-434a-8000-7cac966c5917))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "J1") (unit 1)
         )
@@ -3264,7 +3264,7 @@
     (pin "8" (uuid 21501ee3-7de0-4f79-bd51-67dfb9d8a17a))
     (pin "9" (uuid 590cb46b-12ee-417f-979a-654991c21d59))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "U2") (unit 1)
         )
@@ -3290,7 +3290,7 @@
     (pin "1" (uuid 1415805e-31e6-4f6c-96dd-2b1f73b2e22b))
     (pin "2" (uuid 062ce194-8e5f-4f71-94b8-49e148a62422))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW23") (unit 1)
         )
@@ -3316,7 +3316,7 @@
     (pin "1" (uuid 3ea2cbdf-0a62-4b2a-b355-38bc3a0ce005))
     (pin "2" (uuid 8c7d556d-1a44-458c-8450-3e72c13dd067))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D23") (unit 1)
         )
@@ -3342,7 +3342,7 @@
     (pin "1" (uuid 442aa082-6d43-45f6-b5c6-9809203e4139))
     (pin "2" (uuid 5b74cc77-1ca7-45a3-abcb-4720593e164d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW24") (unit 1)
         )
@@ -3368,7 +3368,7 @@
     (pin "1" (uuid 66ac1ea4-d88a-4e45-8e80-7faa44a0a0b3))
     (pin "2" (uuid 106e8a95-37db-4241-bdfb-55ad91fc9949))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D24") (unit 1)
         )
@@ -3394,7 +3394,7 @@
     (pin "1" (uuid ed6fe3ab-3fd5-4fc4-b21e-1ead79d52671))
     (pin "2" (uuid d80064a2-9a7e-4b9e-99bb-cced0496114c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW25") (unit 1)
         )
@@ -3420,7 +3420,7 @@
     (pin "1" (uuid e4778203-0b78-40af-b5d1-cbce2c829383))
     (pin "2" (uuid a45fd534-5bfd-4c38-8a83-d43a02f17539))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW26") (unit 1)
         )
@@ -3446,7 +3446,7 @@
     (pin "1" (uuid ad350ad9-3561-47ff-a0b1-662955941f8e))
     (pin "2" (uuid 44304a94-e82a-4bc0-9a82-c83854a71392))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW27") (unit 1)
         )
@@ -3472,7 +3472,7 @@
     (pin "1" (uuid 6799138a-ea89-4044-aaf8-82723a53e987))
     (pin "2" (uuid 35fc9ad3-4442-4e73-8b26-0b05d1a4dc23))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D25") (unit 1)
         )
@@ -3498,7 +3498,7 @@
     (pin "1" (uuid 9158dfb7-225c-4d4b-a5de-a7b20e8a191f))
     (pin "2" (uuid e42b9d8f-3556-4a44-b42a-7df49a3f2d3c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D26") (unit 1)
         )
@@ -3524,7 +3524,7 @@
     (pin "1" (uuid d3afc3f2-3cab-4334-974b-fa64c7973139))
     (pin "2" (uuid bd061034-3245-42ce-8f83-eb7c88467ae9))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D27") (unit 1)
         )
@@ -3550,7 +3550,7 @@
     (pin "1" (uuid fbf30a74-f018-4e6c-8d08-a7c9da59748e))
     (pin "2" (uuid 42935336-0f6a-4a82-a3a7-8a112e97cd0c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW22") (unit 1)
         )
@@ -3576,7 +3576,7 @@
     (pin "1" (uuid 9d97e8c1-4cc5-457e-90cc-162de752cbb4))
     (pin "2" (uuid a1945337-91fa-4266-b5dd-57936c30adde))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D22") (unit 1)
         )
@@ -3602,7 +3602,7 @@
     (pin "1" (uuid f47b1a25-9b27-4119-b10e-14a8eb17e796))
     (pin "2" (uuid 26bc4613-5c06-4585-9412-bb6538c7aa6f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW29") (unit 1)
         )
@@ -3628,7 +3628,7 @@
     (pin "1" (uuid 250aef6d-ae7c-4cd5-8071-2482cf94149c))
     (pin "2" (uuid d4470b4f-29c1-46d3-911a-30a432c9b285))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D29") (unit 1)
         )
@@ -3654,7 +3654,7 @@
     (pin "1" (uuid 7d68b229-6fb3-4f0b-b9b7-537e1aef289b))
     (pin "2" (uuid 276af56f-4ef2-4811-a1b1-86ce2cd1a139))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW30") (unit 1)
         )
@@ -3680,7 +3680,7 @@
     (pin "1" (uuid d7d271bd-bd1e-44f8-8ce5-8a8330a4f25a))
     (pin "2" (uuid f48d335c-9450-4fab-ab98-d5a094ef48f3))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D30") (unit 1)
         )
@@ -3706,7 +3706,7 @@
     (pin "1" (uuid e48633b4-c91c-4e6e-9926-ff424918141b))
     (pin "2" (uuid 3e2db05d-b010-46b8-b5e5-1a138b5e6197))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW31") (unit 1)
         )
@@ -3732,7 +3732,7 @@
     (pin "1" (uuid a4454f80-1155-42de-82ae-50da9a09843a))
     (pin "2" (uuid 9845e245-e3c0-43f9-8bec-585b3559a8da))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW32") (unit 1)
         )
@@ -3758,7 +3758,7 @@
     (pin "1" (uuid 42a30a7c-ac09-4146-a5ae-4a504e2a8b98))
     (pin "2" (uuid 155a5223-c0c2-4acc-8cbb-e2388b46b0d4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW33") (unit 1)
         )
@@ -3784,7 +3784,7 @@
     (pin "1" (uuid 87385bd7-5e76-4a67-96c7-948e4e295fca))
     (pin "2" (uuid ab12b4ca-44ca-482e-bb0e-01313a604664))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D31") (unit 1)
         )
@@ -3810,7 +3810,7 @@
     (pin "1" (uuid ae571a08-e35c-4b42-b96b-ea25cf2bc81f))
     (pin "2" (uuid 3455b49c-1c07-4089-a993-30dc924165c3))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D32") (unit 1)
         )
@@ -3836,7 +3836,7 @@
     (pin "1" (uuid 24110545-5795-4ad9-8af1-90fb437400aa))
     (pin "2" (uuid 00aa2a28-fd0b-4843-a45f-49dc3d39ab30))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D33") (unit 1)
         )
@@ -3862,7 +3862,7 @@
     (pin "1" (uuid 0fc0361e-afca-4682-9852-3c2c35aa6e9d))
     (pin "2" (uuid ab81ad39-5e8c-4da6-80f2-6aa385cdb69b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW28") (unit 1)
         )
@@ -3888,7 +3888,7 @@
     (pin "1" (uuid de1d8c74-c00f-4b6b-8042-03739a511df1))
     (pin "2" (uuid 883f0e51-871b-4c5c-b370-8a592b59fa23))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D28") (unit 1)
         )
@@ -3914,7 +3914,7 @@
     (pin "1" (uuid 4de48c7a-dd14-4bc5-8cec-3b2b858b0f4b))
     (pin "2" (uuid bb98e6d9-4a97-4c01-ac63-d8a038d1bfc4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW35") (unit 1)
         )
@@ -3940,7 +3940,7 @@
     (pin "1" (uuid 361c2e8b-f1b3-4608-9740-4937bd324484))
     (pin "2" (uuid 1ff6904d-72e9-4efb-9d28-138ffac8978f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D35") (unit 1)
         )
@@ -3966,7 +3966,7 @@
     (pin "1" (uuid 7ca0680d-c862-4d86-acd1-62b9cd3c5be6))
     (pin "2" (uuid a0dbd2fc-47c5-40e8-b0e7-08d73cdf3aa7))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW36") (unit 1)
         )
@@ -3992,7 +3992,7 @@
     (pin "1" (uuid a75b6f56-a27d-4bc7-962f-eb8222e995d0))
     (pin "2" (uuid 41809298-e48c-46a0-8630-70d96364e37f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D36") (unit 1)
         )
@@ -4018,7 +4018,7 @@
     (pin "1" (uuid 36767e6a-45fb-49b6-9129-01e8a05567bc))
     (pin "2" (uuid 1be8ac6c-f9f0-4ce6-810f-b1a48f37475a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW37") (unit 1)
         )
@@ -4044,7 +4044,7 @@
     (pin "1" (uuid 89252f01-cc81-43b6-af4b-0c5a098bb3c6))
     (pin "2" (uuid 8d4b5f7d-e5fe-41d9-b507-7e7e4e0c24f5))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW38") (unit 1)
         )
@@ -4070,7 +4070,7 @@
     (pin "1" (uuid 07458a2f-3897-4185-ba94-5ea9e5962ce4))
     (pin "2" (uuid 9552e426-c96f-4401-b212-6f0bd27d1a3a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW39") (unit 1)
         )
@@ -4096,7 +4096,7 @@
     (pin "1" (uuid 28520548-c985-4be9-a59b-9262dd5ab739))
     (pin "2" (uuid d576746a-8b25-48ba-a5ee-a145caf23f04))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D37") (unit 1)
         )
@@ -4122,7 +4122,7 @@
     (pin "1" (uuid 8bab227f-a2ff-4f56-9b91-2d63af15f30b))
     (pin "2" (uuid 60bca4e7-a8a5-4414-8874-d3aff66f2cad))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D38") (unit 1)
         )
@@ -4148,7 +4148,7 @@
     (pin "1" (uuid bf7f171f-603f-4f4e-932a-ea3269652010))
     (pin "2" (uuid 346b337b-9906-402f-8db7-159a514c2824))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D39") (unit 1)
         )
@@ -4174,7 +4174,7 @@
     (pin "1" (uuid 143cbce6-e002-4d3f-a4c8-5c7cf3ff0f4b))
     (pin "2" (uuid cb05e776-20cb-4d7c-af69-287db04073db))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW34") (unit 1)
         )
@@ -4200,7 +4200,7 @@
     (pin "1" (uuid a69cef3f-f064-4399-854c-fec9288fcb70))
     (pin "2" (uuid 6944342f-341d-4c61-a56a-0d763b7e1f3f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D34") (unit 1)
         )
@@ -4226,7 +4226,7 @@
     (pin "1" (uuid 4dc7ef1d-47fb-414d-8cf5-0d5687ce3afd))
     (pin "2" (uuid b7afdec8-1bf8-4c3b-8c7d-7b378ea48df7))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "SW41") (unit 1)
         )
@@ -4252,61 +4252,9 @@
     (pin "1" (uuid 42deb6f4-db55-4ddd-aee8-703894360d8e))
     (pin "2" (uuid e55412e9-1577-4abc-b764-fe021ef1f85b))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "D41") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "corne-light-rescue:SW_PUSH-kbd") (at 113.03 152.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-00005c25f941)
-    (property "Reference" "SW42" (at 116.84 149.606 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "SW_PUSH" (at 113.03 154.432 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "kbd:CherryMX_ChocV2_1.5u" (at 113.03 152.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 113.03 152.4 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (pin "1" (uuid 27ae37aa-18fd-43f5-a1ff-df04db838faf))
-    (pin "2" (uuid c22310ad-a242-44b7-8f91-d7f49e9cb64a))
-    (instances
-      (project "corne-light"
-        (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
-          (reference "SW42") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:D") (at 120.65 156.21 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-00005c25f947)
-    (property "Reference" "D42" (at 118.11 156.21 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "D" (at 123.19 156.21 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "kbd:D3_TH" (at 120.65 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 120.65 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 96eb2f99-efbf-450c-9109-0e1531c59236))
-    (pin "2" (uuid 016b3e50-dd03-496a-88c6-02b0c3a46c22))
-    (instances
-      (project "corne-light"
-        (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
-          (reference "D42") (unit 1)
         )
       )
     )
@@ -4329,7 +4277,7 @@
     )
     (pin "1" (uuid 89eca991-5bb0-446d-b668-e89a54508f0a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0101") (unit 1)
         )
@@ -4354,7 +4302,7 @@
     )
     (pin "1" (uuid ff49ae50-ae14-4897-b94a-b9958976fe4a))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0102") (unit 1)
         )
@@ -4380,7 +4328,7 @@
     (pin "1" (uuid 42ed65db-ff11-428b-b785-c01dff0ec5c3))
     (pin "2" (uuid 17826eee-7459-4832-8ac8-af33dcbdd359))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "RSW2") (unit 1)
         )
@@ -4405,7 +4353,7 @@
     )
     (pin "1" (uuid 0065cbe7-9848-4330-93b9-64f0067ee11c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0103") (unit 1)
         )
@@ -4430,7 +4378,7 @@
     )
     (pin "1" (uuid 55fe37e4-7819-40f3-b1ee-831ce9a2b3c2))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0105") (unit 1)
         )
@@ -4458,7 +4406,7 @@
     (pin "3" (uuid 87de2c49-9fb8-4e09-a80a-43452ea7c900))
     (pin "4" (uuid 6ed30ca2-62e0-49d3-b611-228bcef866e4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "J7") (unit 1)
         )
@@ -4483,7 +4431,7 @@
     )
     (pin "1" (uuid a73c88cf-3750-4354-aadd-3e18592aafc4))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0106") (unit 1)
         )
@@ -4511,7 +4459,7 @@
     (pin "C" (uuid 2361ef7e-ed8a-4865-9389-54e9f0163e7d))
     (pin "D" (uuid 546f7bdd-ffe3-40f8-993d-6503659acb39))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "J6") (unit 1)
         )
@@ -4536,7 +4484,7 @@
     )
     (pin "1" (uuid 9703d036-2fab-4a6f-8de4-c38d67f1989d))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0104") (unit 1)
         )
@@ -4561,7 +4509,7 @@
     )
     (pin "1" (uuid e7db202e-7f92-4905-a390-68c0f4f5524c))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0107") (unit 1)
         )
@@ -4586,7 +4534,7 @@
     )
     (pin "1" (uuid 3f93c6c4-1c7b-4481-beca-109d7ed49294))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0113") (unit 1)
         )
@@ -4611,7 +4559,7 @@
     )
     (pin "1" (uuid 0c52cb13-bff6-44cb-819c-153b88a01a78))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#FLG0101") (unit 1)
         )
@@ -4636,7 +4584,7 @@
     )
     (pin "1" (uuid 2652430a-a1dc-41e7-8d9c-4db51f853d22))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0115") (unit 1)
         )
@@ -4661,7 +4609,7 @@
     )
     (pin "1" (uuid 9e4b6ba2-7f7a-495c-9a25-45f20f2fbad2))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR0108") (unit 1)
         )
@@ -4686,9 +4634,35 @@
     )
     (pin "1" (uuid 50811a96-c9d1-40ff-958c-22bbeef1bae9))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#FLG0102") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:D") (at 85.09 156.21 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 1439842f-e623-4597-b3e6-683053a358c8)
+    (property "Reference" "D40" (at 82.55 156.21 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "D" (at 87.63 156.21 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "kbd:D3_TH" (at 85.09 156.21 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 85.09 156.21 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a1d804e9-bc81-4ae3-93e8-872169afd565))
+    (pin "2" (uuid c81d6729-c5cf-4727-a325-337bf1e1148f))
+    (instances
+      (project "corne-thumb"
+        (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -4711,9 +4685,35 @@
     )
     (pin "1" (uuid 7584a1ba-7eea-4efb-a5b4-1b8358c3795f))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR09") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "corne-light-rescue:SW_PUSH-kbd") (at 77.47 152.4 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 3c02fc45-2b38-46df-9d45-698a5fda42a9)
+    (property "Reference" "SW40" (at 81.28 149.606 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_PUSH" (at 77.47 154.432 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "kbd:CherryMX_ChocV2_1u" (at 77.47 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 77.47 152.4 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (pin "1" (uuid c87c2dca-9af0-4229-a25d-4494bf3e4ce6))
+    (pin "2" (uuid 5befedbd-8005-4f8c-8f43-9eeba1b08a43))
+    (instances
+      (project "corne-thumb"
+        (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
+          (reference "SW40") (unit 1)
         )
       )
     )
@@ -4740,7 +4740,7 @@
     (pin "3" (uuid 905f6d85-9f23-4ed5-a4b0-1d95c04dc1e9))
     (pin "4" (uuid fa395888-eb30-492b-a795-eb13f38b5879))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "U3") (unit 1)
         )
@@ -4765,7 +4765,7 @@
     )
     (pin "1" (uuid 7b5f0291-ee58-4745-bc43-82555aa28ac8))
     (instances
-      (project "corne-light"
+      (project "corne-thumb"
         (path "/7dd98dfb-ab37-4436-a495-c61d29e0fc40"
           (reference "#PWR010") (unit 1)
         )
