@@ -1,7 +1,8 @@
 (fp_lib_table
   (version 7)
-  (lib (name "keyswitches")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/keyswitches.pretty")(options "")(descr ""))
-  (lib (name "kbd")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/kbd.pretty")(options "")(descr ""))
-  (lib (name "holykeebs")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/holykeebs.pretty")(options "")(descr ""))
-  (lib (name "mbk")(type "KiCad")(uri "/Users/idank/dev/keyboards/idank-kicad-lib/mbk.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/kbd.pretty")(options "")(descr ""))
+  (lib (name "holykeebs")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/holykeebs.pretty")(options "")(descr ""))
+  (lib (name "mbk")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/mbk.pretty")(options "")(descr ""))
+  (lib (name "Lily58-footprint")(type "KiCad")(uri "${KIPRJMOD}/Lily58-footprint.pretty")(options "")(descr ""))
 )

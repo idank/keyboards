@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8128,
-          "height": 1.397,
-          "width": 1.397
+          "drill": 2.1,
+          "height": 2.1,
+          "width": 2.1
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,7 +49,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_near_hole|105833260|79683613|75e3401d-1747-44c9-b33a-9ef639772eb7|56070209-b2aa-40b4-9845-3412a3b3e3b7",
+        "hole_near_hole|106840000|85315000|ad776f3e-c9a9-4e97-aeea-79998539e1f2|d59a24c3-cd3b-44d0-a4ec-f65d3bdb1c6d",
+        "hole_near_hole|95064445|78507868|8e66996a-f091-4a16-8908-8364d6d17c59|f0ebc2cc-049f-451f-a1b7-84a5f6b3d72e",
+        "hole_near_hole|95940000|85265000|9390dd28-1d66-45dd-8722-c3bbe00a85d7|625e5ca9-8621-40d5-a985-7a14545f7ca5"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -75,8 +80,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -87,12 +92,12 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -121,7 +126,7 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
