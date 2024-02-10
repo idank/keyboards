@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "sweeq plate.step",
+      "step": "sweeq plate tenting holes.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
