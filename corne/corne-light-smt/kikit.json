@@ -1,0 +1,71 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": 1,
+        "cols": 1,
+        "space": "5mm"
+    },
+    "source": {
+        "tolerance": "15mm"
+    },
+    "tabs": {
+        "type": "annotation",
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.3mm",
+        "spacing": "0.6mm",
+        "offset": "-0.2mm",
+        "prolong": "1mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "5mm",
+        "space": "3mm",
+        "fillet": "1mm"
+    },
+    // "framing": {
+    //     "type": "frame",
+    //     "hspace": "2mm",
+    //     "vspace": "2mm",
+    //     "width": "5mm",
+    //     "fillet": "1mm"
+    // },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "size": "2mm",
+        "paste": "True"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "5mm",
+        "voffset": "3.85mm",
+        "coppersize": "1mm",
+        "opening": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "text": "holykeebs Corne Low Profile @ yaqwsxs",
+        "thickness": "0.2mm",
+        "anchor": "mt",
+        "voffset": "2.5mm",
+        "hjustify": "center",
+        "vjustify": "center"
+    },
+    "text2": {
+        "type": "simple",
+        "text": "JLCJLCJLC",
+        "thickness": "0.2mm",
+        "anchor": "mb",
+        "voffset": "-2.5mm",
+        "hjustify": "center",
+        "vjustify": "center"
+    },
+    "post": {
+        "millradius": "1mm"
+        // "copperfill": "False",
+        // "origin": "bl"
+    }
+}

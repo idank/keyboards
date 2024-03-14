@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -19,12 +19,12 @@
       "footprints": true,
       "graphics": false,
       "keepouts": false,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": false,
       "pads": false,
-      "text": true,
-      "tracks": true,
-      "vias": true,
+      "text": false,
+      "tracks": false,
+      "vias": false,
       "zones": false
     },
     "visible_items": [
@@ -64,8 +64,14 @@
       39,
       40
     ],
-    "visible_layers": "ffc3bff_ffffffff",
+    "visible_layers": "ffc10ff_ffffffff",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "corne-light.kicad_prl",
