@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name corne-chocolate-rescue)(type Legacy)(uri C:/Users/81804/Documents/keyboard/crkbd-master/corne-chocolate/pcb/corne-chocolate-rescue.lib)(options "")(descr ""))
+  (lib (name corne-chocolate-cache)(type Legacy)(uri C:/Users/81804/Documents/keyboard/crkbd-master/corne-chocolate/pcb/corne-chocolate-cache.lib)(options "")(descr ""))
+  (lib (name ball_sensor-cache)(type Legacy)(uri C:/Users/81804/Documents/keyboard/keyball/ball_sensor/ball_sensor-cache.lib)(options "")(descr ""))
+  (lib (name keyball60_right-rescue)(type Legacy)(uri ${KIPRJMOD}/keyball60_right-rescue.lib)(options "")(descr ""))
+)
