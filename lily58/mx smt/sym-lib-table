@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lily58-rescue")(type "KiCad")(uri "${KIPRJMOD}/Lily58-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/kbd.kicad_sym")(options "")(descr ""))
+)
