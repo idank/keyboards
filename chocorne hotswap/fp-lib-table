@@ -4,4 +4,5 @@
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/../idank-kicad-lib/keyswitches.pretty")(options "")(descr ""))
   (lib (name "holykeebs")(type "KiCad")(uri "${KIPRJMOD}/../idank-kicad-lib/holykeebs.pretty")(options "")(descr ""))
   (lib (name "mbk")(type "KiCad")(uri "${KIPRJMOD}/../idank-kicad-lib/mbk.pretty")(options "")(descr ""))
+  (lib (name "sea-picro")(type "KiCad")(uri "${KIPRJMOD}/../idank-kicad-lib/sea-picro.pretty")(options "")(descr ""))
 )
