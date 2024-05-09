@@ -247,7 +247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -322,7 +322,7 @@
 	(footprint "kbd:MJ-4PP-9_1side"
 		(layer "F.Cu")
 		(uuid "11cb3d45-3292-4180-b61f-75cc9af31216")
-		(at 79.43 145.43)
+		(at 79.43 143.23)
 		(property "Reference" "J1"
 			(at -0.85 4.95 0)
 			(layer "F.Fab")
@@ -346,7 +346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:MJ-4PP-9_1side"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -534,7 +534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_HOLE_NPH"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -621,7 +621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -722,7 +722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:OLED_1side_1mm_holes"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -896,7 +896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:ProMicro_1mm_holes"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1298,7 +1298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:ResetSW_1side"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1469,7 +1469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:ResetSW_1side"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1641,7 +1641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1733,7 +1733,7 @@
 	(footprint "kbd:MJ-4PP-9_1side"
 		(layer "F.Cu")
 		(uuid "77efd588-26af-4716-81e8-f7d7018935fd")
-		(at 348.588362 145.43)
+		(at 348.588362 143.23)
 		(property "Reference" "J2"
 			(at -0.85 4.95 0)
 			(layer "F.Fab")
@@ -1757,7 +1757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:MJ-4PP-9_1side"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1943,7 +1943,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2062,7 +2062,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2162,7 +2162,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:lily58_logo_3"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2707,7 +2707,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:ProMicro_1mm_holes"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3112,7 +3112,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3214,7 +3214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3314,7 +3314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3432,7 +3432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:OLED_1side_1mm_holes"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:M2_HOLE_PCB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3692,7 +3692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 -98)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3809,7 +3809,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:lily58_logo_3"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4353,7 +4353,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:M2_HOLE_PCB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4441,7 +4441,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5265,7 +5265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6088,7 +6088,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6912,7 +6912,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7736,7 +7736,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8560,7 +8560,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9384,7 +9384,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10208,7 +10208,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11032,7 +11032,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11858,7 +11858,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12049,7 +12049,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12852,7 +12852,7 @@
 			(at 0 1.999999 98)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "3ee08a1d-7f09-4442-8879-9aed15a51ab5")
+			(uuid "20ff0781-426c-43b4-8c2d-86bafb7e1776")
 			(effects
 				(font
 					(size 1 1)
@@ -12864,7 +12864,7 @@
 		(property "Value" "Tab"
 			(at -3.000001 1 98)
 			(layer "Dwgs.User")
-			(uuid "5c837c1d-f6e3-4ed4-bda8-bf48d4d9637a")
+			(uuid "99239fd7-c546-4dda-9699-ca3a6ca64bb7")
 			(effects
 				(font
 					(size 1.2 1.2)
@@ -12872,7 +12872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 98)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12920,7 +12920,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1c3c6484-3de0-4c26-8847-711896579691")
+			(uuid "d1907892-fa79-4ce8-a926-a094c93e7e64")
 		)
 		(fp_line
 			(start 0.250002 1)
@@ -12930,7 +12930,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "cbdabd0e-af4e-4590-a4c9-084c01097cac")
+			(uuid "84c06661-1bfa-4fbc-86af-50e44ad5d02e")
 		)
 		(fp_line
 			(start -2.75 0)
@@ -12940,7 +12940,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "513069d8-934a-499c-bd02-1c69be3eeba2")
+			(uuid "07aedfcc-7187-48e9-a78f-9e4a0e68f3a2")
 		)
 		(fp_line
 			(start -0.749999 -1)
@@ -12950,12 +12950,12 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "dd930ccb-7d77-42c2-b095-b596e7a0bb96")
+			(uuid "3f0fd021-23a1-4bde-b542-a525005f86d2")
 		)
 		(fp_text user "KIKIT: width: 5mm"
 			(at -5.499999 0 -172)
 			(layer "Dwgs.User")
-			(uuid "add981b5-2e43-4a3c-807f-3e33eba5b168")
+			(uuid "0731b41e-5ca7-47cb-9c0f-33ed7a63e7cd")
 			(effects
 				(font
 					(size 1 1)
@@ -12996,7 +12996,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13187,7 +13187,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14010,7 +14010,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14836,7 +14836,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15027,7 +15027,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15853,7 +15853,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16044,7 +16044,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16870,7 +16870,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17064,7 +17064,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17168,7 +17168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17290,7 +17290,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18116,7 +18116,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18310,7 +18310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18501,7 +18501,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19325,7 +19325,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20151,7 +20151,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20345,7 +20345,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20539,7 +20539,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20730,7 +20730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21557,7 +21557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21748,7 +21748,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22575,7 +22575,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22769,7 +22769,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22963,7 +22963,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23157,7 +23157,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23348,7 +23348,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24174,7 +24174,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24368,7 +24368,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24562,7 +24562,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24753,7 +24753,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25577,7 +25577,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26401,7 +26401,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27228,7 +27228,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27419,7 +27419,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28246,7 +28246,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28440,7 +28440,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28631,7 +28631,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29454,7 +29454,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30277,7 +30277,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31103,7 +31103,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31207,7 +31207,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:M2_HOLE_PCB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31300,7 +31300,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31494,7 +31494,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31685,7 +31685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32488,7 +32488,7 @@
 			(at 0 2 90)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "64889efa-76ce-4c7b-a91a-a1a987b50132")
+			(uuid "5c096c78-3fa7-419f-95f1-67a0413bca49")
 			(effects
 				(font
 					(size 1 1)
@@ -32500,7 +32500,7 @@
 		(property "Value" "Tab"
 			(at -3 1 90)
 			(layer "Dwgs.User")
-			(uuid "0d5cf10a-cb4c-4502-8c18-97cfb9b178e4")
+			(uuid "0d108a66-a361-42c6-958f-1c4843c62df9")
 			(effects
 				(font
 					(size 1.2 1.2)
@@ -32508,7 +32508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32556,7 +32556,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d08bf49a-fdff-4971-b3b2-40ed08417658")
+			(uuid "d0594a7b-c555-401d-9c26-6b875ce8cf99")
 		)
 		(fp_line
 			(start 0.25 1)
@@ -32566,7 +32566,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "54c18fa5-038c-4b97-976d-ad2d87276e8c")
+			(uuid "a24e5a70-bfdb-4871-901b-321353ff95ce")
 		)
 		(fp_line
 			(start -2.75 0)
@@ -32576,7 +32576,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "bfbd4f3b-5183-464d-a786-da695d9294eb")
+			(uuid "0b039748-c03f-4d0f-8b5d-d460e0aa421c")
 		)
 		(fp_line
 			(start -0.75 -1)
@@ -32586,12 +32586,12 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c0c93d71-7946-47f7-a06a-89b9e27e60ad")
+			(uuid "6ca5b3d5-d957-489b-9399-6a2b9263dc60")
 		)
 		(fp_text user "KIKIT: width: 5mm"
 			(at -5.5 0 180)
 			(layer "Dwgs.User")
-			(uuid "b8b1b397-9f7f-49b2-a095-7054d7c6bd99")
+			(uuid "704eacdb-f3ce-4de7-ab00-96529fe1cd76")
 			(effects
 				(font
 					(size 1 1)
@@ -32632,7 +32632,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32826,7 +32826,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33020,7 +33020,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33214,7 +33214,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33408,7 +33408,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33515,7 +33515,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33709,7 +33709,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33813,7 +33813,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34640,7 +34640,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34834,7 +34834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35028,7 +35028,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35222,7 +35222,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35413,7 +35413,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36237,7 +36237,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37061,7 +37061,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Lily58-footprint:M2_HOLE_PCB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37154,7 +37154,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37345,7 +37345,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38172,7 +38172,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38366,7 +38366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38560,7 +38560,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38751,7 +38751,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39574,7 +39574,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40398,7 +40398,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41224,7 +41224,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41415,7 +41415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42242,7 +42242,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42433,7 +42433,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43256,7 +43256,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44083,7 +44083,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 60)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44277,7 +44277,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44468,7 +44468,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45292,7 +45292,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1.5u"
 			(at 0 0 120)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46108,7 +46108,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1.5u"
 			(at 0 0 -120)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46927,7 +46927,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47118,7 +47118,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47941,7 +47941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48767,7 +48767,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48961,7 +48961,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49155,7 +49155,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49346,7 +49346,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50173,7 +50173,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50364,7 +50364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51187,7 +51187,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52010,7 +52010,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52834,7 +52834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53660,7 +53660,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53851,7 +53851,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54677,7 +54677,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_SPACER"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54779,7 +54779,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55605,7 +55605,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55799,7 +55799,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55993,7 +55993,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56187,7 +56187,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56381,7 +56381,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56575,7 +56575,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:logo .5x"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60022,7 +60022,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60848,7 +60848,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:logo .5x"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64163,7 +64163,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64989,7 +64989,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -65183,7 +65183,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -60)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -65377,7 +65377,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -65568,7 +65568,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66392,7 +66392,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -67216,7 +67216,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68040,7 +68040,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68866,7 +68866,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69060,7 +69060,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:M2_HOLE_NPH"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69150,7 +69150,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "holykeebs:SW_choc_v1_HS_CPG135001S30_1u_flipped"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69974,7 +69974,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70800,7 +70800,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70968,10 +70968,10 @@
 		(at 235.778279 219.87004 90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "REF**"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2dc27663-e85d-4f93-84f2-443ae4db4994")
+			(uuid "911da089-5bbf-426d-90c5-225a6e88c421")
 			(effects
 				(font
 					(size 1 1)
@@ -70981,9 +70981,9 @@
 			)
 		)
 		(property "Value" "Tab"
-			(at -3 1 270)
+			(at -3 1 -90)
 			(layer "Dwgs.User")
-			(uuid "addfaa76-ef2f-4e88-bb09-89a2c631f274")
+			(uuid "0edcd905-d647-46d4-ba26-b4cfd8c37a80")
 			(effects
 				(font
 					(size 1.2 1.2)
@@ -70991,7 +70991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kikit:Tab"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71039,7 +71039,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "0c852488-ff13-4372-9a2e-f5bf71163ff7")
+			(uuid "bf4c60e6-b9df-4d9d-849d-fb28b310e636")
 		)
 		(fp_line
 			(start -2.75 0)
@@ -71049,7 +71049,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "4f380795-93e1-4bdf-990b-41f30ca7880c")
+			(uuid "1eb4ac89-adaf-4374-a436-2dceebbdea21")
 		)
 		(fp_line
 			(start 0.25 1)
@@ -71059,7 +71059,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "d43282fc-8c3a-497d-b46b-2f47e2b1925b")
+			(uuid "546f2776-3e6e-4f0a-bb15-defc8e9c4c9b")
 		)
 		(fp_line
 			(start -0.75 1)
@@ -71069,12 +71069,12 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e5575274-dcf3-4c97-8d54-715df32d12ae")
+			(uuid "f18800e6-b8c9-49bf-b947-ebee2c9736d3")
 		)
 		(fp_text user "KIKIT: width: 5mm"
 			(at -5.5 0 0)
 			(layer "Dwgs.User")
-			(uuid "c6f47904-8808-4af2-8d17-a3b9c2331356")
+			(uuid "2c1e019e-26c2-4ae4-abd6-325a71455cd4")
 			(effects
 				(font
 					(size 1 1)
@@ -71115,7 +71115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71309,7 +71309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd:D3_SMD_v2"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72737,13 +72737,13 @@
 					(xy 335.98986 170.093377) (xy 335.984143 170.096459) (xy 335.938834 170.115557) (xy 335.889232 170.127571)
 					(xy 335.875363 170.129746) (xy 335.826704 170.135076) (xy 335.777857 170.136852) (xy 335.733154 170.135898)
 					(xy 335.684036 170.132645) (xy 335.634975 170.127083) (xy 335.617516 170.124659) (xy 335.565885 170.117047)
-					(xy 335.516029 170.108764) (xy 335.516029 170.027676) (xy 335.626671 170.027676) (xy 335.643195 170.031044)
-					(xy 335.691639 170.037445) (xy 335.735908 170.04056) (xy 335.786161 170.041598) (xy 335.828568 170.039766)
-					(xy 335.879001 170.031265) (xy 335.926845 170.012288) (xy 335.944193 169.99954) (xy 335.970714 169.956838)
-					(xy 335.977892 169.905799) (xy 335.973564 169.871189) (xy 335.947117 169.827397) (xy 335.916964 169.806092)
-					(xy 335.868715 169.788318) (xy 335.823797 169.780253) (xy 335.77224 169.777083) (xy 335.740354 169.777976)
-					(xy 335.690418 169.783433) (xy 335.674178 169.786221) (xy 335.626671 169.798087) (xy 335.626671 170.027676)
-					(xy 335.516029 170.027676) (xy 335.516029 169.649588) (xy 335.518135 169.606169) (xy 335.526428 169.557195)
+					(xy 335.516029 170.108764) (xy 335.516029 169.798087) (xy 335.626671 169.798087) (xy 335.626671 170.027676)
+					(xy 335.643195 170.031044) (xy 335.691639 170.037445) (xy 335.735908 170.04056) (xy 335.786161 170.041598)
+					(xy 335.828568 170.039766) (xy 335.879001 170.031265) (xy 335.926845 170.012288) (xy 335.944193 169.99954)
+					(xy 335.970714 169.956838) (xy 335.977892 169.905799) (xy 335.973564 169.871189) (xy 335.947117 169.827397)
+					(xy 335.916964 169.806092) (xy 335.868715 169.788318) (xy 335.823797 169.780253) (xy 335.77224 169.777083)
+					(xy 335.740354 169.777976) (xy 335.690418 169.783433) (xy 335.674178 169.786221) (xy 335.626671 169.798087)
+					(xy 335.516029 169.798087) (xy 335.516029 169.649588) (xy 335.518135 169.606169) (xy 335.526428 169.557195)
 					(xy 335.542651 169.508904) (xy 335.55597 169.483536) (xy 335.589573 169.442996) (xy 335.630823 169.413161)
 					(xy 335.651154 169.403028) (xy 335.6984 169.387916) (xy 335.748426 169.380188) (xy 335.798862 169.37799)
 				)
@@ -72922,13 +72922,13 @@
 					(xy 93.10736 170.243377) (xy 93.101643 170.246459) (xy 93.056334 170.265557) (xy 93.006732 170.277571)
 					(xy 92.992863 170.279746) (xy 92.944204 170.285076) (xy 92.895357 170.286852) (xy 92.850654 170.285898)
 					(xy 92.801536 170.282645) (xy 92.752475 170.277083) (xy 92.735016 170.274659) (xy 92.683385 170.267047)
-					(xy 92.633529 170.258764) (xy 92.633529 170.177676) (xy 92.744171 170.177676) (xy 92.760695 170.181044)
-					(xy 92.809139 170.187445) (xy 92.853408 170.19056) (xy 92.903661 170.191598) (xy 92.946068 170.189766)
-					(xy 92.996501 170.181265) (xy 93.044345 170.162288) (xy 93.061693 170.14954) (xy 93.088214 170.106838)
-					(xy 93.095392 170.055799) (xy 93.091064 170.021189) (xy 93.064617 169.977397) (xy 93.034464 169.956092)
-					(xy 92.986215 169.938318) (xy 92.941297 169.930253) (xy 92.88974 169.927083) (xy 92.857854 169.927976)
-					(xy 92.807918 169.933433) (xy 92.791678 169.936221) (xy 92.744171 169.948087) (xy 92.744171 170.177676)
-					(xy 92.633529 170.177676) (xy 92.633529 169.799588) (xy 92.635635 169.756169) (xy 92.643928 169.707195)
+					(xy 92.633529 170.258764) (xy 92.633529 169.948087) (xy 92.744171 169.948087) (xy 92.744171 170.177676)
+					(xy 92.760695 170.181044) (xy 92.809139 170.187445) (xy 92.853408 170.19056) (xy 92.903661 170.191598)
+					(xy 92.946068 170.189766) (xy 92.996501 170.181265) (xy 93.044345 170.162288) (xy 93.061693 170.14954)
+					(xy 93.088214 170.106838) (xy 93.095392 170.055799) (xy 93.091064 170.021189) (xy 93.064617 169.977397)
+					(xy 93.034464 169.956092) (xy 92.986215 169.938318) (xy 92.941297 169.930253) (xy 92.88974 169.927083)
+					(xy 92.857854 169.927976) (xy 92.807918 169.933433) (xy 92.791678 169.936221) (xy 92.744171 169.948087)
+					(xy 92.633529 169.948087) (xy 92.633529 169.799588) (xy 92.635635 169.756169) (xy 92.643928 169.707195)
 					(xy 92.660151 169.658904) (xy 92.67347 169.633536) (xy 92.707073 169.592996) (xy 92.748323 169.563161)
 					(xy 92.768654 169.553028) (xy 92.8159 169.537916) (xy 92.865926 169.530188) (xy 92.916362 169.52799)
 				)
