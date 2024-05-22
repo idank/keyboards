@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/kbd.pretty")(options "")(descr ""))
+  (lib (name "holykeebs")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/holykeebs.pretty")(options "")(descr ""))
+  (lib (name "sea-picro")(type "KiCad")(uri "${KIPRJMOD}/../../idank-kicad-lib/sea-picro.pretty")(options "")(descr ""))
+)
